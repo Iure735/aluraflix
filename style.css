@@ -23,7 +23,7 @@ color: var(--lilas-claro);/*cor da fonte*/
 }
 
 .chamada-texto {
-background-color: var(--branco);
+background-color: var(--lilas-claro);
 color: var(--preto);
 margin-right: 20px;/*margem a direita*/
 }
